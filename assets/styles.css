@@ -516,3 +516,13 @@ dd{
   .hero-card{border-radius:30px}
   .section h2{font-size:2.1rem}
 }
+
+.reveal {
+  opacity: 1 !important;
+  transform: none !important;
+}
+
+.reveal.visible {
+  opacity: 1 !important;
+  transform: none !important;
+}
